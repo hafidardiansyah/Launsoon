@@ -1,6 +1,6 @@
 <h1 align="center">Selamat datang di Launsoon! 👋</h1>
     
-![Launsoon - Screenshot](/assets/images/ss.png)
+![Launsoon - Screenshot](/assets/images/screenshot.png)
 
 <p align ="Center">
 
