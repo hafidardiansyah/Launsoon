@@ -1,16 +1,33 @@
-# flutter_web
+<h1 align="center">Selamat datang di Launsoon! 👋</h1>
+    
+![Launsoon - Screenshot](/assets/images/ss.png)
 
-A new Flutter project.
+<p align ="Center">
 
-## Getting Started
+<img src="https://img.shields.io/github/issues/hafidardiansyah/Launsoon?style=flat-square">
+<img src="https://img.shields.io/github/stars/hafidardiansyah/Launsoon?style=flat-square">
+<img src="https://img.shields.io/github/forks/hafidardiansyah/Launsoon?style=flat-square">
 
-This project is a starting point for a Flutter application.
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+### 🤔 Apa itu Launsoon?
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Launsoon adalah aplikasi halaman segera diluncurkan, yang dibuat oleh <a href="https://github.com/hafidardiansyah"> Hafid Ardiansyah</a>. Menggunakan teknologi Flutter.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🎉 Kenapa membuat Launsoon?
+
+Karena untuk melatih saya mengimplementasikan UI Design menggunakan Flutter Web.
+
+### :link: Social Media
+
+- Instagram : <a href="http://instagram.com/dev.hafid"> @dev.hafid</a>
+- Dribbble : <a href="https://dribbble.com/hafidardiansyah"> hafidardiansyah</a>
+
+### 📝 Lisensi
+
+- Copyright © 2020 Hafid Ardiansyah.
+- **Launsoon MIT License.**
+
+---
+
+- **Made with ❤️ by Hafid Ardiansyah**
