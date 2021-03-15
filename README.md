@@ -18,6 +18,10 @@ Launsoon adalah aplikasi halaman segera diluncurkan, yang dibuat oleh <a href="h
 
 Karena untuk melatih saya mengimplementasikan UI Design menggunakan Flutter Web.
 
+### ✨ Demo
+
+Demo dapat kalian kunjungi di https://tender-varahamihira-bf65bd.netlify.app/#/
+
 ### :link: Social Media
 
 - Instagram : <a href="http://instagram.com/dev.hafid"> @dev.hafid</a>
