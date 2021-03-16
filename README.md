@@ -22,11 +22,6 @@ Karena untuk melatih saya mengimplementasikan UI Design menggunakan Flutter Web.
 
 Demo dapat kalian kunjungi di https://tender-varahamihira-bf65bd.netlify.app/#/
 
-### :link: Social Media
-
-- Instagram : <a href="http://instagram.com/dev.hafid"> @dev.hafid</a>
-- Dribbble : <a href="https://dribbble.com/hafidardiansyah"> hafidardiansyah</a>
-
 ### 📝 Lisensi
 
 - Copyright © 2020 Hafid Ardiansyah.
